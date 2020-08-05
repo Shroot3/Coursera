@@ -1,14 +1,18 @@
 h1{
     text-align: center;
     color: lightblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    color: floralwhite;
+
     
 }
 
 h2{
-    color: aqua;
+    color: whitesmoke;
     text-align: right;
     position: relative;
-    border: 2px solid black;
+    /*border: 2px solid black;*/
     
 }
 
@@ -20,9 +24,11 @@ h2{
     padding: 5px 5px 5px 5px;
     overflow: auto;
     
-    background-color: #5f9ea0;
-    border: 5px solid darkcyan;
-    color: yellow;
+    background-color: darkslategray;
+    border: 3px solid #5f9ea0;
+    
+    color: aqua;
+
     
     
 }
